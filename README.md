@@ -1,177 +1,131 @@
-<!-- ===================================================== -->
-<!--                  CYBERPUNK README                      -->
-<!-- ===================================================== -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:00F5FF,100:7C3AED&text=R%20Vikranth&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=twinkling"/>
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NwN3R1dTRzYjN2N2V4aWV6M2RxbDVsdmQ2c3N0cTZtb3J4dDd5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="35"> ACCESS GRANTED
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Backend+Developer;Algorithm+Enthusiast;Building+Scalable+Software;Always+Learning+Something+New"/>
-<p>
-<a href="mailto:vikranthras@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/12vicky08">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://rapakavikranth.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
-![](https://komarev.com/ghpvc/?username=12vicky08&style=for-the-badge&color=00F5FF)
+
+<!-- Animated Typing Header -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+R+Vikranth" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<img src="https://komarev.com/ghpvc/?username=12vicky08&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<a href="https://rapakavikranth.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/></a>
+&nbsp;
+<a href="mailto:vikranthras@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
 </div>
+
 ---
-# 💀 SYSTEM INFORMATION
+
+## 🚀 About Me
+
 ```yaml
-Name: R Vikranth
-Role:
-  Computer Science Student
-University:
-  Amrita Vishwa Vidyapeetham
-Languages:
-  Java
-  Python
-  C
-  JavaScript
-Interests:
-  Data Structures
-  Backend Development
-  AI
-  System Design
-  Open Source
-Mission:
-  Build software that is efficient,
-  scalable and meaningful.
+name: R Vikranth
+location: India 🇮🇳
+education: B.Tech CSE @ Amrita Vishwa Vidyapeetham (2024-2028)s
+currently_learning:
+  ["Full-Stack Development", "Algorithms", "Systems Programming"]
+looking_for: Internship opportunities 🔍
+interests: ["Web Dev", "Data Structures", "Problem Solving", "OS Internals"]
+fun_fact: "I build things from healthcare UIs to experimental operating systems!"
 ```
+
 ---
-# ⚡ TECH STACK
+
+## 🛠️ Tech Stack
+
 <div align="center">
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,sql"/>
-### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=django,docker,git,github,linux,vscode"/>
-### Currently Exploring
-<img src="https://skillicons.dev/icons?i=nodejs,react,cpp"/>
+
+#### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+
+#### Frameworks & Tools
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 </div>
+
 ---
-# 🚀 FEATURED PROJECTS
-<table>
-<tr>
-<td width="50%">
-## 🎮 Net Duel
-Graph Powered Puzzle Game
-✔ Java Swing
-✔ DFS Maze Generation
-✔ BFS Connectivity
-✔ Greedy AI
-✔ Human vs Computer
-<a href="https://github.com/12vicky08/Net-Duel">
-<img src="https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</td>
-  <br>
-<td width="50%">
-## 🌦 Weather Dashboard
-Efficient Weather Analytics
-✔ Python
-✔ Segment Trees
-✔ Fast Range Queries
-✔ Interactive Visualization
-<a href="https://github.com/12vicky08/Weather-Analysis-Dashboard">
-<img src="https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</td>
-</tr><br>
-<tr>
-<td>
-## 📡 WSN Routing Optimizer
-Wireless Sensor Network
-✔ NS3
-✔ Pandas
-✔ Routing Analysis
-✔ Performance Evaluation
-<a href="https://github.com/12vicky08/WSN-Routing-Optimizer">
-<img src="https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</td><br>
-<td>
-## ✅ Django Todo
-Full Stack Application
-✔ Django
-✔ SQLite
-✔ Docker
-✔ Gunicorn
-<a href="https://github.com/12vicky08/Django-Todo-App">
-<img src="https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</td>
-</tr><br>
-<tr>
-<td colspan="2">
-## 🏥 ZenHeal
-Healthcare UI
-✔ Responsive Design
-✔ Modern CSS
-✔ Accessibility
-✔ Patient Focused
-<a href="https://github.com/12vicky08/ZenHeal">
-<img src="https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</td>
-</tr><br>
-</table>
----
-# 📊 GITHUB DASHBOARD
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=12vicky08&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=12vicky08&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=12vicky08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=12vicky08&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=555577" alt="GitHub Streak"/>
 </div>
+
+<br/>
+
 <div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=12vicky08&theme=tokyo-night&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12vicky08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12vicky08&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=12vicky08&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 </div>
+
 ---
-# 🏆 ACHIEVEMENTS
-```text
-✓ Java Development
-✓ Python Development
-✓ Backend Development
-✓ Data Structures & Algorithms
-✓ Docker
-✓ Linux
-✓ Git & GitHub
-✓ Responsive Web Design
-```
----
-# 🎯 CURRENT OBJECTIVES
-```text
-Backend Engineering      ███████████████░░░
-System Design            ████████████░░░░░
-Competitive Programming  █████████████░░░░
-Artificial Intelligence  ██████████░░░░░░
-```
----
-# 📈 CONTRIBUTION GRAPH
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12vicky08&theme=tokyonight"/>
-</p>
----
-# ⚙ TERMINAL
-```bash
-$ boot
-Initializing...
-Loading Java.....................OK
-Loading Python...................OK
-Loading Algorithms...............OK
-Loading Backend..................OK
-Loading Creativity...............OK
-Ready.
-```
----
+
+## 📌 Featured Projects
+
 <div align="center">
-## ⚡ "Code. Learn. Build. Repeat."
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,100:00F5FF"/>
+
+<a href="https://github.com/12vicky08/portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=12vicky08&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=C9D1D9" alt="Portfolio"/>
+</a>
+<a href="https://github.com/12vicky08/dSA">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=12vicky08&repo=dSA&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=C9D1D9" alt="DSA"/>
+</a>
+<a href="https://github.com/12vicky08/weather-analysis-dashboard">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=12vicky08&repo=weather-analysis-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=C9D1D9" alt="Weather Dashboard"/>
+</a>
+<a href="https://github.com/12vicky08/ZenHeal-team11">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=12vicky08&repo=ZenHeal-team11&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=C9D1D9" alt="ZenHeal"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=12vicky08&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+_I'm actively looking for internship opportunities. If you're hiring or want to collaborate, feel free to reach out!_
+
+<br/>
+
+<a href="https://rapakavikranth.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-rapakavikranth.vercel.app-6C63FF?style=for-the-badge" alt="Portfolio"/></a>
+&nbsp;
+<a href="mailto:vikranthras@gmail.com"><img src="https://img.shields.io/badge/📧_Email-vikranthras@gmail.com-D14836?style=for-the-badge" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
