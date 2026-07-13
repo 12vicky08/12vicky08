@@ -1,117 +1,197 @@
 <div align="center">
 
-<img src="./liberty-city-banner.svg" alt="Liberty City banner" width="100%"/>
+# Hi 👋 I'm R Vikranth
 
-</div>
+### Computer Science Student • Algorithm Builder • Backend Developer
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=E2793D&center=true&vCenter=true&width=650&lines=Medical+student+by+day.;CS-trained+builder+by+night.;Currently+building+ASHEN+DRIFT.;Welcome+to+Liberty+City.)
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+projects+that+solve+real+problems.;Java+%7C+Python+%7C+Django+%7C+Algorithms.;Always+learning.+Always+building." />
 
 <br>
 
-## 📋 CASE FILE
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikranthras@gmail.com)
 
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: R Vikranth
+
+Education:
+  B.Tech Computer Science
+  Amrita Vishwa Vidyapeetham
+
+Currently Learning:
+  - Advanced Data Structures
+  - Backend Development
+  - System Design
+  - Competitive Programming
+
+Interests:
+  - Algorithms
+  - Software Engineering
+  - AI
+  - Open Source
+
+Languages:
+  - Java
+  - Python
+  - C
 ```
-SUBJECT ............ Vikranth
-PRIOR RECORD ....... B.Tech, Computer Science — Amrita University
-STATUS ............. Active — building, learning, occasionally debugging at 2am
-```
-<br>
 
-## 🎮 CURRENT OPERATION — ASHEN DRIFT
+---
 
-A post-apocalyptic survival game currently in active development.
+# 🛠 Tech Stack
 
-| STATUS | FOCUS |
-|---|---|
-| 🟠 In Progress | World & systems design for a post-apocalyptic survival experience |
+### Languages
 
-<br>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,sql" />
+</p>
 
-## 🔫 LOADOUT
+### Frameworks
 
-**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=django,docker,git,github,linux,vscode" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-1C2433?style=for-the-badge&logo=python&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![Java](https://img.shields.io/badge/Java-1C2433?style=for-the-badge&logo=openjdk&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![C](https://img.shields.io/badge/C-1C2433?style=for-the-badge&logo=c&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![JavaScript](https://img.shields.io/badge/JavaScript-1C2433?style=for-the-badge&logo=javascript&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![HTML5](https://img.shields.io/badge/HTML5-1C2433?style=for-the-badge&logo=html5&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![CSS3](https://img.shields.io/badge/CSS3-1C2433?style=for-the-badge&logo=css3&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![Haskell](https://img.shields.io/badge/Haskell-1C2433?style=for-the-badge&logo=haskell&logoColor=E2793D&labelColor=1C2433&color=232B3A)
+### Currently Exploring
 
-**Frameworks & Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,react,nodejs" />
+</p>
 
-![Django](https://img.shields.io/badge/Django-1C2433?style=for-the-badge&logo=django&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![Docker](https://img.shields.io/badge/Docker-1C2433?style=for-the-badge&logo=docker&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![Git](https://img.shields.io/badge/Git-1C2433?style=for-the-badge&logo=git&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![Linux](https://img.shields.io/badge/Linux-1C2433?style=for-the-badge&logo=linux&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![VS Code](https://img.shields.io/badge/VS_Code-1C2433?style=for-the-badge&logo=visualstudiocode&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![Vercel](https://img.shields.io/badge/Vercel-1C2433?style=for-the-badge&logo=vercel&logoColor=E2793D&labelColor=1C2433&color=232B3A)
+---
 
-**Game Development & Worldbuilding**
+# 💻 Featured Projects
 
-![Worldbuilding](https://img.shields.io/badge/Worldbuilding-1C2433?style=for-the-badge&logoColor=E8DFC8&labelColor=1C2433&color=CC6A2E)
-![Game Design](https://img.shields.io/badge/Game_Design-1C2433?style=for-the-badge&labelColor=1C2433&color=CC6A2E)
-![Sci--Fi Storytelling](https://img.shields.io/badge/Sci--Fi_Storytelling-1C2433?style=for-the-badge&labelColor=1C2433&color=CC6A2E)
+## 🎮 Net Duel
 
+Graph-powered puzzle game built using Java Swing.
 
-## 📻 RADIO DIAL
+✔ DFS Maze Generation
 
-*What's playing depends on what's being built.*
+✔ BFS Connectivity
 
-| STATION | ON AIR |
-|---|---|
-| 103.4 Circuit City FM | Game dev sessions & worldbuilding notes for **Ashen Drift** |
-| The Cutting Room Radio | Long nights in DaVinci Resolve |
-| Static Frequency | Cybersecurity CTFs on TryHackMe / PortSwigger / OverTheWire |
-| Ward Rounds Radio | Med school, between all of the above |
+✔ Greedy AI Opponent
 
-<br>
+✔ Human vs Computer Mode
 
-## 🗂️ OPEN CASE FILES
+---
 
-| CASE | REPO |
-|---|---|
-| 🟠 Portfolio | [12vicky08/portfolio](https://github.com/12vicky08/portfolio) |
-| 🟠 DSA | [12vicky08/dSA](https://github.com/12vicky08/dSA) |
-| 🟠 Weather Analysis Dashboard | [12vicky08/weather-analysis-dashboard](https://github.com/12vicky08/weather-analysis-dashboard) |
-| 🟠 ZenHeal | [12vicky08/ZenHeal-team11](https://github.com/12vicky08/ZenHeal-team11) |
-| 🟠 Ashen Drift | *post-apocalyptic survival game — add repo link once public* |
+## 🌦 Weather Analysis Dashboard
 
-<br>
+Efficient weather analytics using Segment Trees.
 
-## 📊 PRECINCT STATS
+✔ Fast Range Queries
+
+✔ Data Visualization
+
+✔ Python
+
+---
+
+## 📡 WSN Routing Optimizer
+
+Wireless Sensor Network simulation pipeline.
+
+✔ NS-3
+
+✔ Pandas
+
+✔ Routing Analysis
+
+✔ Performance Visualization
+
+---
+
+## ✅ Django Todo App
+
+Full Stack Task Manager
+
+✔ Django
+
+✔ SQLite
+
+✔ Docker
+
+✔ Gunicorn
+
+---
+
+## 🏥 ZenHeal
+
+Healthcare Website UI
+
+✔ Responsive Design
+
+✔ Modern CSS
+
+✔ Accessibility
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=12vicky08&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=12vicky08&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=12vicky08&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12vicky08&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🎯 Building algorithm-intensive software
+- 📚 Exploring backend engineering
+- 🐍 Python Developer
+- ☕ Java Developer
+- 📈 Data Structures Enthusiast
+
+---
+
+# 🌱 Current Focus
+
+- Competitive Programming
+- Backend Engineering
+- System Design
+- Open Source Contributions
+
+---
+
+# 💡 Quote
+
+> "Great software isn't just code. It's clear thinking turned into architecture."
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=12vicky08&show_icons=true&hide_border=true&bg_color=0C0F16&title_color=E2793D&icon_color=CC6A2E&text_color=E8DFC8&ring_color=CC6A2E" alt="GitHub stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12vicky08&layout=compact&hide_border=true&bg_color=0C0F16&title_color=E2793D&text_color=E8DFC8" alt="Top languages" width="35%"/>
+### Thanks for visiting!
 
-<img src="https://streak-stats.demolab.com?user=12vicky08&hide_border=true&background=0C0F16&stroke=CC6A2E&ring=E2793D&fire=E2793D&currStreakLabel=E8DFC8&sideLabels=E8DFC8&dates=A99A7C" alt="Streak stats" width="70%"/>
-
-</div>
-
-<br>
-
-## 📟 TIP LINE
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1C2433?style=for-the-badge&logo=vercel&logoColor=E2793D&labelColor=1C2433&color=232B3A)](https://rapakavikranth.vercel.app)
-[![Email](https://img.shields.io/badge/Email-1C2433?style=for-the-badge&logo=gmail&logoColor=E2793D&labelColor=1C2433&color=232B3A)](mailto:vikranthras@gmail.com)
-
-<!-- Add LinkedIn/Twitter/other links here in the same badge style if you want them -->
-
-</div>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**WANTED LEVEL:** ★ ★ ★ ★ ☆ &nbsp; *for crimes against boring portfolios*
+<img src="https://komarev.com/ghpvc/?username=12vicky08&style=for-the-badge&color=blue"/>
 
 </div>
