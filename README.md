@@ -15,7 +15,7 @@
 <a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="YOUR_PORTFOLIO">
+<a href="https://rapakavikranth.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
@@ -70,6 +70,7 @@ Graph Powered Puzzle Game
 <img src="https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </td>
+  <br>
 <td width="50%">
 ## 🌦 Weather Dashboard
 Efficient Weather Analytics
@@ -81,7 +82,7 @@ Efficient Weather Analytics
 <img src="https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </td>
-</tr>
+</tr><br>
 <tr>
 <td>
 ## 📡 WSN Routing Optimizer
@@ -93,7 +94,7 @@ Wireless Sensor Network
 <a href="https://github.com/12vicky08/WSN-Routing-Optimizer">
 <img src="https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-</td>
+</td><br>
 <td>
 ## ✅ Django Todo
 Full Stack Application
@@ -105,7 +106,7 @@ Full Stack Application
 <img src="https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </td>
-</tr>
+</tr><br>
 <tr>
 <td colspan="2">
 ## 🏥 ZenHeal
@@ -118,7 +119,7 @@ Healthcare UI
 <img src="https://img.shields.io/badge/View_Repository-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </td>
-</tr>
+</tr><br>
 </table>
 ---
 # 📊 GITHUB DASHBOARD
