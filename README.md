@@ -1,197 +1,274 @@
 <div align="center">
 
-# Hi 👋 I'm R Vikranth
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00ff99,100:0f172a&text=R%20Vikranth&fontColor=00ff99&fontSize=60&animation=fadeIn&fontAlignY=40"/>
 
-### Computer Science Student • Algorithm Builder • Backend Developer
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED.;JAVA+%7C+PYTHON+%7C+DJANGO+%7C+ALGORITHMS;BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+projects+that+solve+real+problems.;Java+%7C+Python+%7C+Django+%7C+Algorithms.;Always+learning.+Always+building." />
+<p>
 
-<br>
+<a href="mailto:vikranthras@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00FF99?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikranthras@gmail.com)
+<a href="https://github.com/12vicky08">
+<img src="https://img.shields.io/badge/GITHUB-00FF99?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-00FF99?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="rapakavikranth.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-00FF99?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=12vicky08&style=for-the-badge&color=00ff99)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# > whoami
 
 ```yaml
-Name: R Vikranth
+Name:
+  R Vikranth
 
 Education:
-  B.Tech Computer Science
+  B.Tech Computer Science Engineering
   Amrita Vishwa Vidyapeetham
 
-Currently Learning:
-  - Advanced Data Structures
-  - Backend Development
-  - System Design
-  - Competitive Programming
+Status:
+  Learning
+  Building
+  Improving
 
-Interests:
-  - Algorithms
-  - Software Engineering
-  - AI
-  - Open Source
+Focus:
+  Algorithms
+  Backend Development
+  System Design
+  Open Source
 
 Languages:
-  - Java
-  - Python
-  - C
+  Java
+  Python
+  C
+  JavaScript
 ```
 
 ---
 
-# 🛠 Tech Stack
+# > tech_stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,sql" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,sql,django,docker,git,github,linux,vscode"/>
 
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,docker,git,github,linux,vscode" />
-</p>
-
-### Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,react,nodejs" />
 </p>
 
 ---
 
-# 💻 Featured Projects
+# > projects
+
+<table>
+
+<tr>
+
+<td width="50%">
 
 ## 🎮 Net Duel
 
-Graph-powered puzzle game built using Java Swing.
+Java Swing Puzzle Game
 
-✔ DFS Maze Generation
+- DFS Maze Generation
+- BFS Connectivity
+- Greedy AI
+- Human vs Computer
 
-✔ BFS Connectivity
+<a href="https://github.com/12vicky08/Net-Duel">
+<img src="https://img.shields.io/badge/Repository-00FF99?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-✔ Greedy AI Opponent
+</td>
 
-✔ Human vs Computer Mode
+<td width="50%">
 
----
+## 🌦 Weather Dashboard
 
-## 🌦 Weather Analysis Dashboard
+Python Analytics Project
 
-Efficient weather analytics using Segment Trees.
+- Segment Trees
+- Range Queries
+- Data Visualization
+- Weather Analytics
 
-✔ Fast Range Queries
+<a href="https://github.com/12vicky08/Weather-Analysis-Dashboard">
+<img src="https://img.shields.io/badge/Repository-00FF99?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-✔ Data Visualization
+</td>
 
-✔ Python
+</tr>
 
----
+<tr>
+
+<td>
 
 ## 📡 WSN Routing Optimizer
 
-Wireless Sensor Network simulation pipeline.
+- NS3
+- Pandas
+- Routing Analysis
+- Performance Metrics
 
-✔ NS-3
+<a href="https://github.com/12vicky08/WSN-Routing-Optimizer">
+<img src="https://img.shields.io/badge/Repository-00FF99?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-✔ Pandas
+</td>
 
-✔ Routing Analysis
+<td>
 
-✔ Performance Visualization
+## ✅ Django Todo
 
----
+- Django
+- Docker
+- SQLite
+- Gunicorn
 
-## ✅ Django Todo App
+<a href="https://github.com/12vicky08/Django-Todo-App">
+<img src="https://img.shields.io/badge/Repository-00FF99?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-Full Stack Task Manager
+</td>
 
-✔ Django
+</tr>
 
-✔ SQLite
+<tr>
 
-✔ Docker
-
-✔ Gunicorn
-
----
+<td colspan="2">
 
 ## 🏥 ZenHeal
 
-Healthcare Website UI
+Healthcare UI
 
-✔ Responsive Design
+- Responsive Design
+- Modern CSS
+- Accessibility
+- Patient Focused
 
-✔ Modern CSS
+<a href="https://github.com/12vicky08/ZenHeal">
+<img src="https://img.shields.io/badge/Repository-00FF99?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-✔ Accessibility
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+# > github_stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=12vicky08&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=12vicky08&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=12vicky08&theme=react-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12vicky08&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# > achievements
+
+```text
+✓ Java Development
+✓ Python Development
+✓ Data Structures & Algorithms
+✓ Backend Development
+✓ UI Development
+✓ Docker
+✓ Linux
+✓ Git & GitHub
+```
+
+---
+
+# > current_objectives
+
+```bash
+$ roadmap
+
+[███████████████░░░] Competitive Programming
+
+[████████████████░░] Backend Engineering
+
+[█████████████░░░░░] System Design
+
+[██████████████░░░░] Open Source
+```
+
+---
+
+# > contribution_snake
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=12vicky08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=12vicky08&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=12vicky08&theme=tokyo-night&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 📈 Languages
+# > terminal
 
-<p align="center">
+```bash
+$ status
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12vicky08&layout=compact&theme=tokyonight&hide_border=true"/>
+System             : ONLINE
 
-</p>
+Algorithms         : LOADED
 
----
+Backend            : ACTIVE
 
-# 🏆 Achievements
+Projects           : DEPLOYED
 
-- 🎯 Building algorithm-intensive software
-- 📚 Exploring backend engineering
-- 🐍 Python Developer
-- ☕ Java Developer
-- 📈 Data Structures Enthusiast
+Learning           : IN PROGRESS
 
----
-
-# 🌱 Current Focus
-
-- Competitive Programming
-- Backend Engineering
-- System Design
-- Open Source Contributions
-
----
-
-# 💡 Quote
-
-> "Great software isn't just code. It's clear thinking turned into architecture."
+Mission            :
+Turning ideas into scalable software.
+```
 
 ---
 
 <div align="center">
 
-### Thanks for visiting!
+```text
+██████████████████████████████████████████████████
 
-<img src="https://komarev.com/ghpvc/?username=12vicky08&style=for-the-badge&color=blue"/>
+> SESSION TERMINATED
+
+Thanks for visiting.
+
+See you in the next commit.
+
+██████████████████████████████████████████████████
+```
 
 </div>
