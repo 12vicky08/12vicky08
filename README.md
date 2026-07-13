@@ -15,14 +15,10 @@
 ## 📋 CASE FILE
 
 ```
-SUBJECT ............ Vicky
-KNOWN ASSOCIATES ... Apollo Institute of Medical Sciences & Research, Hyderabad (Batch 2024)
+SUBJECT ............ Vikranth
 PRIOR RECORD ....... B.Tech, Computer Science — Amrita University
 STATUS ............. Active — building, learning, occasionally debugging at 2am
 ```
-
-> *"Two career paths, one person: half of me reads scans, the other half reads stack traces."*
-
 <br>
 
 ## 🎮 CURRENT OPERATION — ASHEN DRIFT
@@ -62,17 +58,6 @@ A post-apocalyptic survival game currently in active development.
 ![Game Design](https://img.shields.io/badge/Game_Design-1C2433?style=for-the-badge&labelColor=1C2433&color=CC6A2E)
 ![Sci--Fi Storytelling](https://img.shields.io/badge/Sci--Fi_Storytelling-1C2433?style=for-the-badge&labelColor=1C2433&color=CC6A2E)
 
-**Video Editing**
-
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-1C2433?style=for-the-badge&logo=davinciresolve&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-
-**Cybersecurity / Ethical Hacking**
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-1C2433?style=for-the-badge&logo=tryhackme&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![PortSwigger](https://img.shields.io/badge/PortSwigger-1C2433?style=for-the-badge&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-![OverTheWire](https://img.shields.io/badge/OverTheWire-1C2433?style=for-the-badge&logoColor=E2793D&labelColor=1C2433&color=232B3A)
-
-<br>
 
 ## 📻 RADIO DIAL
 
