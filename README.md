@@ -1,118 +1,131 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · 12vicky08</sub></p>
-<h1>R VIKRANTH</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Hyderabad </sub></p>
-<p><a href="https://github.com/12vicky08">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=12vicky08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183066585%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=12vicky08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183066585%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="R VIKRANTH animated colored ASCII portrait" />
-</picture>
-</td>
-</tr>
-</table>
+<!-- Animated Typing Header -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+R+Vikranth" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<img src="https://komarev.com/ghpvc/?username=12vicky08&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<a href="https://rapakavikranth.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/></a>
+&nbsp;
+<a href="mailto:vikranthras@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · JavaScript · CSS</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>932 contributions · 84 active days</p></td>
-</tr>
-</table>
+## 🚀 About Me
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+```yaml
+name: R Vikranth
+location: India 🇮🇳
+education: B.Tech CSE @ Amrita Vishwa Vidyapeetham (2024-2028)s
+currently_learning:
+  ["Full-Stack Development", "Algorithms", "Systems Programming"]
+looking_for: Internship opportunities 🔍
+interests: ["Web Dev", "Data Structures", "Problem Solving", "OS Internals"]
+fun_fact: "I build things from healthcare UIs to experimental operating systems!"
+```
 
-<h2>Proof at a glance</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>932</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>5</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+## 🛠️ Tech Stack
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=12vicky08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183066585%3Fv%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=12vicky08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183066585%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="R VIKRANTH GitHub proof metrics" />
-</picture>
-</p>
+<div align="center">
 
-<h2>Selected work</h2>
+#### Languages
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=12vicky08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183066585%3Fv%3D4&repos=12vicky08%2FSecurity-Information-and-Event-Management-system%2C12vicky08%2Fwsn-routing-optimizer%2C12vicky08%2Fweather-analysis-dashboard%2C12vicky08%2Fnotes-summarizer&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=12vicky08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183066585%3Fv%3D4&repos=12vicky08%2FSecurity-Information-and-Event-Management-system%2C12vicky08%2Fwsn-routing-optimizer%2C12vicky08%2Fweather-analysis-dashboard%2C12vicky08%2Fnotes-summarizer&v=recruiter-projects-1&mode=dark" width="100%" alt="R VIKRANTH selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/12vicky08/Security-Information-and-Event-Management-system">Security-Information-and-Event-Management-system</a></h3>
-<p>A selected public project.</p>
-<p><sub>Shell · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/12vicky08/Security-Information-and-Event-Management-system">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/12vicky08/wsn-routing-optimizer">wsn-routing-optimizer</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/12vicky08/weather-analysis-dashboard">weather-analysis-dashboard</a></h3><p>weather analysis dashboard using segment trees</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/12vicky08/notes-summarizer">notes-summarizer</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
+#### Frameworks & Tools
 
-<h2>Technical toolkit</h2>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=12vicky08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183066585%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=12vicky08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183066585%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="R VIKRANTH technology stack" />
-</picture>
-</p>
+</div>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>76% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>10% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>6% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>5% of public code</sub></td>
-<td width="20%" align="center"><strong>TeX</strong><br /><sub>3% of public code</sub></td>
-</tr>
-</table>
+---
 
-<h2>Consistency signal</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=12vicky08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183066585%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=12vicky08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183066585%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="R VIKRANTH contribution activity" />
-</picture>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=12vicky08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=12vicky08&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=555577" alt="GitHub Streak"/>
+</div>
 
-<hr />
+<br/>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/12vicky08">GitHub</a></td>
-</tr>
-</table>
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12vicky08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
+</div>
 
-<p align="center"><sub>R VIKRANTH · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=12vicky08&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/12vicky08/portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=12vicky08&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=C9D1D9" alt="Portfolio"/>
+</a>
+<a href="https://github.com/12vicky08/dSA">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=12vicky08&repo=dSA&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=C9D1D9" alt="DSA"/>
+</a>
+<a href="https://github.com/12vicky08/weather-analysis-dashboard">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=12vicky08&repo=weather-analysis-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=C9D1D9" alt="Weather Dashboard"/>
+</a>
+<a href="https://github.com/12vicky08/ZenHeal-team11">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=12vicky08&repo=ZenHeal-team11&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=C9D1D9" alt="ZenHeal"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=12vicky08&bg_color=0D1117&color=6C63FF&line=00D4FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+_I'm actively looking for internship opportunities. If you're hiring or want to collaborate, feel free to reach out!_
+
+<br/>
+
+<a href="https://rapakavikranth.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-rapakavikranth.vercel.app-6C63FF?style=for-the-badge" alt="Portfolio"/></a>
+&nbsp;
+<a href="mailto:vikranthras@gmail.com"><img src="https://img.shields.io/badge/📧_Email-vikranthras@gmail.com-D14836?style=for-the-badge" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
